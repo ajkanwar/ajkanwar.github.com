@@ -1,0 +1,4 @@
+create five images of clinic with names 
+clinic 1, 2 3 4 and 5
+
+also create file - map_big.jpg
